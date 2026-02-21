@@ -1,0 +1,12 @@
+{
+  "name": "blockchain-demo",
+  "version": "1.0.0",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "bun run index.js"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
