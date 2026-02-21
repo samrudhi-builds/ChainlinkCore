@@ -64,4 +64,6 @@ Block 2: [block 2 hash]
 
 ## License
 
-MIT
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+Copyright (c) 2025 Samrudhi B
